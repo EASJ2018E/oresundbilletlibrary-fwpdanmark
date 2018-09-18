@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ØresundBillet", "ØresundBillet\ØresundBillet.csproj", "{1A58FF92-D540-4977-8F0C-B2A154DD7135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAfØresund", "TestAfØresund\TestAfØresund.csproj", "{748C5690-CB91-4AB0-89AF-75431F86D963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A58FF92-D540-4977-8F0C-B2A154DD7135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A58FF92-D540-4977-8F0C-B2A154DD7135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A58FF92-D540-4977-8F0C-B2A154DD7135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A58FF92-D540-4977-8F0C-B2A154DD7135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748C5690-CB91-4AB0-89AF-75431F86D963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748C5690-CB91-4AB0-89AF-75431F86D963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748C5690-CB91-4AB0-89AF-75431F86D963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748C5690-CB91-4AB0-89AF-75431F86D963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F900B6-18DA-4307-A5A7-23B7F1920BA3}
+	EndGlobalSection
+EndGlobal

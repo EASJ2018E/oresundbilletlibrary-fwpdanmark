@@ -1,0 +1,12 @@
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\bin\Debug\netcoreapp2.0\ØresundBillet.deps.json
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\bin\Debug\netcoreapp2.0\ØresundBillet.dll
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\bin\Debug\netcoreapp2.0\ØresundBillet.pdb
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.csprojAssemblyReference.cache
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.csproj.CoreCompileInputs.cache
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.AssemblyInfoInputs.cache
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.AssemblyInfo.cs
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.csproj.CopyComplete
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.dll
+C:\Users\Wulff\Google Drive\Programmering\source\oresundbilletlibrary-fwpdanmark\ØresundBillet\obj\Debug\netcoreapp2.0\ØresundBillet.pdb
